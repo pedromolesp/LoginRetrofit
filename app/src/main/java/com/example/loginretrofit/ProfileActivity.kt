@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.example.loginretrofit.databinding.ActivityProfileBinding
+import com.example.loginretrofit.models.Support
+import com.example.loginretrofit.models.User
 import com.google.android.material.snackbar.Snackbar
 
 class ProfileActivity : AppCompatActivity() {

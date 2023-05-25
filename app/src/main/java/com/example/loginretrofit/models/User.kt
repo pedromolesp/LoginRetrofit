@@ -1,4 +1,4 @@
-package com.example.loginretrofit
+package com.example.loginretrofit.models
 
 data class User(
     val id: Long,
